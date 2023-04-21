@@ -1,7 +1,8 @@
 # SC1015 Project - *The Titanic Disaster*
 
 Welcome to Titanic Analysis repository.
-This is a Mini-project for SC1015 - Introduction to Data Science and Artifical Intelligence. This project focuses on predicting who survives The Titanic based on passenger data.
+This is a Mini-project for SC1015 - Introduction to Data Science and Artifical Intelligence. <br>
+This project focuses on predicting who survives The Titanic based on passenger data.
 
 ## Contributers:
 1.  @jdengoh: Data pre-processing, Data Splitting and Feature Analysis, KNN, XGBoost, Conclusion
@@ -32,8 +33,8 @@ https://www.kaggle.com/competitions/titanic/data
 
 ## Prediction models used
 1. KNN
-2. Random Forest Classifier
-3. XGBoost
+2. XGBoost
+3. Random Forest Classifier
 
 ## Conclusion
 

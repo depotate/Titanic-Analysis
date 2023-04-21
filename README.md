@@ -42,9 +42,10 @@ Our key learnings from this project are as follows:
 
 1. Data pre processing and cleaning to prepare it for model fitting.
 2. Feature analysis on data.
-3. New prediction models - K-Nearest Neighbour, XGBoost, Random Forest Classifier.
-4. Using best features for predictions in different models, cross-validation.
-5. Overall pipeline of machine learning: from getting data to making our predictions.
+3. Encoding of data when needed.
+4. New prediction models - K-Nearest Neighbour, XGBoost, Random Forest Classifier.
+5. Using best features for predictions in different models, cross-validation.
+6. Overall pipeline of machine learning: from getting data to making our predictions.
 
 ## References
 

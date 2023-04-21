@@ -21,7 +21,7 @@ We hope that such insights can be useful in the future for:
 - identifying undiscovered loopholes in safety measures or precautions.
 - further improving existing safety infrastructure to prevent such a disaster from occuring in the future.
 
-### Datasets
+## Datasets
 https://www.kaggle.com/competitions/titanic/data
 
 ## Repository Overview

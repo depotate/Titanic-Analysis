@@ -5,7 +5,7 @@ This is a Mini-project for SC1015 - Introduction to Data Science and Artifical I
 
 ## Contributers:
 1.  @jdengoh: Data pre-processing, Data Splitting and Feature Analysis, KNN, XGBoost, Conclusion
-2.  @ananyakapoor12: Data pre-processing, Data Visualisation and EDA, Random Forest Classifier, Conclusion
+2.  [@ananyakapoor12](https://github.com/ananyakapoor12): Data pre-processing, Data Visualisation and EDA, Random Forest Classifier, Conclusion
 
 ## About/Problem Definition
 
@@ -25,10 +25,10 @@ We hope that such insights can be useful in the future for:
 https://www.kaggle.com/competitions/titanic/data
 
 ## Repository Overview
-1. Data Cleaning
-2. Data Visualisation and EDA
-3. Data Splitting and Feature Analysis
-4. Prediction Models
+1. [Data Cleaning](https://github.com/jdengoh/Titanic-Analysis/blob/main/Data%20Cleaning.ipynb)
+2. [Data Visualisation and EDA](https://github.com/jdengoh/Titanic-Analysis/blob/main/Data%20Visualisation%20and%20EDA.ipynb)
+3. [Data Splitting and Feature Analysis](https://github.com/jdengoh/Titanic-Analysis/blob/main/Data%20Splitting%20and%20Feature%20Analysis.ipynb)
+4. [Prediction Models](https://github.com/jdengoh/Titanic-Analysis/blob/main/Prediction%20Models.ipynb)
 
 ## Prediction models used
 1. KNN

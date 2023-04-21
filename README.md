@@ -5,7 +5,7 @@ This is a Mini-project for SC1015 - Introduction to Data Science and Artifical I
 This project focuses on predicting who survives The Titanic based on passenger data.
 
 ## Contributers:
-1.  @jdengoh: Data pre-processing, Data Splitting and Feature Analysis, KNN, XGBoost, Conclusion
+1.  [@jdengoh](https://github.com/jdengoh): Data pre-processing, Data Splitting and Feature Analysis, KNN, XGBoost, Conclusion
 2.  [@ananyakapoor12](https://github.com/ananyakapoor12): Data pre-processing, Data Visualisation and EDA, Random Forest Classifier, Conclusion
 
 ## About/Problem Definition

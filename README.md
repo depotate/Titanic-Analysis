@@ -38,7 +38,8 @@ https://www.kaggle.com/competitions/titanic/data
 ## Conclusion
 
 ## Learning Points
-Our key learnings from this project are:
+Our key learnings from this project are as follows:
+
 1. Data pre processing and cleaning to prepare it for model fitting.
 2. Feature analysis on data.
 3. New prediction models - K-Nearest Neighbour, XGBoost, Random Forest Classifier.

@@ -23,8 +23,15 @@ We hope that such insights can be useful in the future for:
 https://www.kaggle.com/competitions/titanic/data
 
 ## Repository Overview
+1. Data Cleaning
+2. Data Visualisation and EDA
+3. Data Splitting and Feature Analysis
+4. Prediction Models
 
-## Libraries and Models
+## Models used
+1. KNN
+2. Random Forest Classification
+3. XGBoost
 
 ## Conclusion
 

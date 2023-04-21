@@ -1,4 +1,4 @@
-<img width="531" alt="image" src="https://user-images.githubusercontent.com/114278389/233688759-b8f0b5ff-d2d6-48c7-ab48-fad52b97ef7d.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/114278389/233688759-b8f0b5ff-d2d6-48c7-ab48-fad52b97ef7d.png">
 
 # SC1015 Project - *The Titanic Disaster*
 

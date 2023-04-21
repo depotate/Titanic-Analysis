@@ -43,3 +43,6 @@ https://www.kaggle.com/competitions/titanic/data
 - https://towardsdatascience.com/k-nearest-neighbors-and-the-curse-of-dimensionality-e39d10a6105d#:~:text=The%20%E2%80%9CCurse%20of%20Dimensionality%E2%80%9D%20is,to%20keep%20the%20same%20density.
 - https://medium.com/swlh/stop-one-hot-encoding-your-categorical-features-avoid-curse-of-dimensionality-16743c32cea4#:~:text=One%2Dhot%20encoding%20categorical%20variables,problem%20of%20parallelism%20and%20multicollinearity.
 - https://neptune.ai/blog/knn-algorithm-explanation-opportunities-limitations
+
+##### Random Forest Classifier
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html

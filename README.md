@@ -56,6 +56,7 @@ Our key learnings from this project are as follows:
 
 ##### Random Forest Classifier
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+- https://crunchingthedata.com/random-forest-overfitting/#:~:text=Overfitting%20happens%20when%20a%20model,not%20generalize%20to%20other%20observations.
 
 ##### XGBoost
 - https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/

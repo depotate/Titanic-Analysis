@@ -4,8 +4,8 @@ Welcome to Titanic Analysis repository.
 This is a Mini-project for SC1015 - Introduction to Data Science and Artifical Intelligence. This project focuses on predicting who survives The Titanic based on passenger data.
 
 ### Contributers:
-@jdengoh: Data pre-processing, Data Splitting and Feature Analysis, KNN, XGBoost, Conclusion
-@ananyakapoor12 - Data pre-processing, Data Visualisation and EDA, Random Forest Classifier, Conclusion
+1.  @jdengoh: Data pre-processing, Data Splitting and Feature Analysis, KNN, XGBoost, Conclusion
+2.  @ananyakapoor12 - Data pre-processing, Data Visualisation and EDA, Random Forest Classifier, Conclusion
 
 ## About/Problem Definition
 

@@ -44,13 +44,15 @@ https://www.kaggle.com/competitions/titanic/data
 
 - Children and Women having a higher chance of survival could be attributed to passengers aboard prioritising the saving of woman and children first.
 
-- In reality, while ticket class should not have much impact on one's survival rate, it is interesting to see that first class passengers have higher survival rate.
-    - Such a factor may be linked to their cabin location and accessibility to safety infrastructure during the time of the disaster.
-    - However, more data will be required to be able to confidently explain how ticket class affects survival rate directly
+- In reality, while ticket class should not have much impact on one's survival rate, it is interesting to see that first class passengers have a higher survival rate.
+    - This may be linked to their cabin location and accessibility to safety infrastructure during the time of the disaster.
+    - However, more data will be required to be able to confidently explain how ticket class affects survival rate directly.
 
-- Passengers who travel with smaller size family seem to have a higher chance in surviving.
-    - Perhaps those who have many family members aboard are unwilling to leave behind some of their family since it unlikely that everyone in their family could be saved.
-    - For those travelling alone, it could be possible that they are also prioritising saving of people with smaller family size.
+- Passengers who travel with smaller families seem to have a higher chance in surviving.
+    - Perhaps those who have many family members aboard are unwilling to leave them behind since it is unlikely that everyone in their family could be saved.
+    - For those travelling alone, it could be possible that they may prioritise saving smaller families.
+    - Another important factor is that, most large families were travelling in third class which was also another reason, they had a lower survival rate.
+ - First class passengers were more likely to survive than second or third class ones. Since women were more likely to survive than men, almost all female passengers in first class survived.
     
 ### From our prediction models, we can conclude that:
 

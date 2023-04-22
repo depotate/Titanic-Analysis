@@ -40,6 +40,29 @@ https://www.kaggle.com/competitions/titanic/data
 
 ## Conclusion
 
+### Relating back to our problem definition and real world context:
+
+- Children and Women having a higher chance of survival could be attributed to passengers aboard prioritising the saving of woman and children first.
+
+- In reality, while ticket class should not have much impact on one's survival rate, it is interesting to see that first class passengers have higher survival rate.
+    - Such a factor may be linked to their cabin location and accessibility to safety infrastructure during the time of the disaster.
+    - However, more data will be required to be able to confidently explain how ticket class affects survival rate directly
+
+- Passengers who travel with smaller size family seem to have a higher chance in surviving.
+    - Perhaps those who have many family members aboard are unwilling to leave behind some of their family since it unlikely that everyone in their family could be saved.
+    - For those travelling alone, it could be possible that they are also prioritising saving of people with smaller family size.
+    
+### From our prediction models, we can conclude that:
+
+1. Using KNN model, our best model was using 8 best features likely due to the Curse of Dimensionality. In this attempt, our False Negatives were quite lower than our other attempts and False Positives were manageable too.
+
+2. Using XGBoost, our best model was using all features for prediction likely because it is a robust model in itself. While our first attempt has a high accuracy, it also has relatively higher number of False Negatives compared to Attempt 3 and Attempt 4 with best 10 and 8 features, respectively. 
+
+3. Using Random Forest Classifier, our attempts with 10 and 8 best features yielded the best result and the issue here is likely to be that of overfitting. False positives in both these attempts were much higher than false negatives, a general trend observed in all our models.
+
+4. Overall, from the 4 attempts on each of our three models, the highest test accuracy of 0.83708 was yielded by our **XGBoost Model using all features for prediction**. This is likely becaise XGBoost is a robust model with built-in methods of improving errors, reducing over-fitting and increasing accuracy.
+
+
 ## Learning Points
 Our key learnings from this project are as follows:
 
@@ -56,6 +79,8 @@ Our key learnings from this project are as follows:
 - https://towardsdatascience.com/k-nearest-neighbors-and-the-curse-of-dimensionality-e39d10a6105d#:~:text=The%20%E2%80%9CCurse%20of%20Dimensionality%E2%80%9D%20is,to%20keep%20the%20same%20density.
 - https://medium.com/swlh/stop-one-hot-encoding-your-categorical-features-avoid-curse-of-dimensionality-16743c32cea4#:~:text=One%2Dhot%20encoding%20categorical%20variables,problem%20of%20parallelism%20and%20multicollinearity.
 - https://neptune.ai/blog/knn-algorithm-explanation-opportunities-limitations
+- https://www.simplilearn.com/tutorials/machine-learning-tutorial/knn-in-python
+- https://realpython.com/knn-python/#tune-and-optimize-knn-in-python-using-scikit-learn
 
 ##### Random Forest Classifier
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
@@ -63,7 +88,7 @@ Our key learnings from this project are as follows:
 
 ##### XGBoost
 - https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/
-https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d
+- https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d
 
 ##### Chi-Squared test
 - https://datascience.stackexchange.com/questions/68931/scikit-learn-onehotencoder-effect-on-feature-selection
@@ -74,3 +99,9 @@ https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-lo
 ##### EDA
 - https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
 - https://seaborn.pydata.org/
+
+##### Notebooks
+- https://www.kaggle.com/code/allohvk/titanic-missing-age-imputation-tutorial-advanced
+- https://www.kaggle.com/code/jirakst/titanic-auc-92/notebook
+- https://www.kaggle.com/code/nhlr21/complete-titanic-tutorial-with-ml-nn-ensembling/notebook
+- https://www.kaggle.com/code/dantefilu/keras-neural-network-a-hitchhiker-s-guide-to-nn/notebook#Appendix
